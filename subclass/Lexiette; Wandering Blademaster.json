@@ -14,8 +14,7 @@
 			}
 		],
 		"dateAdded": 1638965531,
-		"dateLastModified": 1638965531,
-		"_dateLastModifiedHash": "21998cc09e"
+		"dateLastModified": 1638965531
 	},
 	"subclass": [
 		{
@@ -47,7 +46,7 @@
 			"subclassSource": "WanderingBlademaster",
 			"level": 3,
 			"entries": [
-				"When you are wielding a melee weapon and no other weapons or shields, if you have used your action to attack an enemy this turn, you can use your bonus action to attack that enemy again, building wind around you. On your next turn you may use your bonus action to release the wind forward, all creatures in a 15ft. cone must then make a dexterity saving throw with a DC of 8 + PB + DEX mod or be suspended in the wind, getting knocked prone, at 10th level they instead get incapacitated for 1 turn then knocked prone, this feature can not be used more than once per short rest or meditation, increased to twice per short rest or meditation at 10th level."
+				"When you are wielding a melee weapon in one hand and no other weapons, after using the Attack action, you can use your bonus action to attack again with the same weapon. Until the end of your next turn, your bonus action will instead deal your weapon damage in a 15ft. Cone and knock prone unless the creatures within succeed a Dexterity saving throw, DC:8+Your Attack Modifier, in which case they also take only half damage. at 10th level they instead get incapacitated for 1 turn then knocked prone, the Cone feature can not be used more than once per short rest or meditation, increased to twice per short rest or meditation at 10th level."
 			]
 		},
 		{
@@ -71,9 +70,9 @@
 			"classSource": "PHB",
 			"subclassShortName": "Wandering Blademaster",
 			"subclassSource": "WanderingBlademaster",
-			"level": 7,
+			"level": 3,
 			"entries": [
-				"Instead of short rests you may meditate for 10 minutes instead. During meditation you must consume a hitdie and then restore additional health equaling your Dex modifier."
+				"Instead of short rests you may meditate for 10 minutes instead. If you consume a hitdie then you restore additional health equaling your Dex modifier."
 			]
 		},
 		{
